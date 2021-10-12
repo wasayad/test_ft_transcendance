@@ -1,0 +1,10 @@
+{
+  "type": "postgres",
+  "host": "db",
+  "port": 5432,
+  "username": "admin",
+  "password": "admin",
+  "database": "postgres",
+  "entities": [],
+  "synchronize": true
+}
